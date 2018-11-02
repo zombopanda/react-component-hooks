@@ -1,0 +1,25 @@
+{
+  "name": "react-component-hooks",
+  "version": "1.0.1",
+  "description": "Use React 16.7+ Hooks in regular React Class Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zombopanda/react-component-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zombopanda/react-component-hooks/issues"
+  },
+  "dependencies": {
+    "react": "16.7.0-alpha.0"
+  },
+  "homepage": "https://github.com/zombopanda/react-component-hooks#readme"
+}
