@@ -1,6 +1,6 @@
 {
   "name": "react-component-hooks",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Use React 16.7+ Hooks in regular React Class Components",
   "main": "index.js",
   "scripts": {

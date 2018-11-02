@@ -5,7 +5,7 @@ https://reactjs.org/docs/hooks-intro.html
 
 ## Install
 ```
-npm install react-component-hooks
+npm i react-component-hooks --save
 ```
 or
 ```
